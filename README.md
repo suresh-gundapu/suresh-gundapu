@@ -31,11 +31,11 @@
 
 
 ### Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sanjay-Sahu-Bandla)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suresh-gundapu)](https://git.io/streak-stats)  
 
 ### 📈 Github Stats
 <!--![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Sanjay-Sahu-Bandla&show_icons=true&hide=issues,prs)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-Sahu-Bandla&layout=compact&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh-gundapu&layout=compact&langs_count=4)
 
 ### Hit Me Up Here
 <p align="center">
