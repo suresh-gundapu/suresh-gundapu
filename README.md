@@ -33,22 +33,16 @@
 ### Streaks 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suresh-gundapu)](https://git.io/streak-stats)  
 
-### 📈 Github Stats
-<!--![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Sanjay-Sahu-Bandla&show_icons=true&hide=issues,prs)-->
+### 📈 Github Stats![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=/suresh-gundapu&show_icons=true&hide=issues,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh-gundapu&layout=compact&langs_count=4)
 
 ### Hit Me Up Here
 <p align="center">
-	<!-- <a href="https://github.com/Sanjay-Sahu-Bandla" alt="Github" title="github">
+	 <a href="https://github.com//suresh-gundapu" alt="Github" title="github">
        <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
     </a>
-    <a href="https://github.com/Sanjay-Sahu-Bandla/Sanjay-Sahu-Bandla" title="Star Mark Repo">
+    <a href="https://github.com//suresh-gundapu//suresh-gundapu" title="Star Mark Repo">
         <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
     </a>
-    <a href="https://www.linkedin.com/in/sanjay-bandla/">
-        <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="https://instagram.com/sanjay_sahu_bandla">
-        <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
-    </a> -->
+
 </p>
