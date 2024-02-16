@@ -33,7 +33,6 @@
 ### Streaks 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suresh-gundapu)](https://git.io/streak-stats)  
 
-### 📈 Github Stats![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=/suresh-gundapu&show_icons=true&hide=issues,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh-gundapu&layout=compact&langs_count=4)
 
 ### Hit Me Up Here
@@ -41,7 +40,7 @@
 	 <a href="https://github.com//suresh-gundapu" alt="Github" title="github">
        <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
     </a>
-    <a href="https://github.com//suresh-gundapu//suresh-gundapu" title="Star Mark Repo">
+    <a href="https://github.com//suresh-gundapu/suresh-gundapu" title="Star Mark Repo">
         <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
     </a>
 
