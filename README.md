@@ -31,6 +31,7 @@
 
 
 ### Streaks 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=suresh-gundapu)](https://git.io/streak-stats)  
 
 ### 📈 Github Stats![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=/suresh-gundapu&show_icons=true&hide=issues,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suresh-gundapu&layout=compact&langs_count=4)
