@@ -2,7 +2,7 @@
 
 ### About Me 
 - 👩🏻‍💻 Pronouns: He/Him
-- 💼 I’m currently working as a <strong>Software Engineer</strong> at Bytexl.
+- 💼 I’m currently working as a <strong>Software Engineer</strong> at <b>Honeywell INC</b> .
 - 🎒 I've worked on various projects ranging from social media platform, tutorial blog to ecommerce, ERP, EMS..
 - 🧭 I love exploring and working both in frontend and backend development.
 - 📫 How to reach me: Check social links below.
